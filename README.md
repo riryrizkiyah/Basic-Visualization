@@ -1,8 +1,8 @@
 # Basic-Visualization
 
 ## Objective
-- Gain & visualize 4 insights from Ames housing dataset [Link]:
-○ Count of one categorical feature
+- Gain & visualize 4 insights from Ames housing dataset
+-- Count of one categorical feature
 ○ Distribution of one continuous feature
 ○ Categorical-continuous
 ○ Continuous-continuous
